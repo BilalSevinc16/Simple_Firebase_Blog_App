@@ -1,16 +1,9 @@
-# simple_firebase_blog_app
+# Simple Firebase Blog App
 
-A new Flutter project.
+Simple Firebase Blog App
 
-## Getting Started
+![1](https://github.com/BilalSevinc16/Simple_Firebase_Blog_App/assets/146417248/14bb4459-1ec7-4139-82c6-755123e7aee6)
 
-This project is a starting point for a Flutter application.
+![2](https://github.com/BilalSevinc16/Simple_Firebase_Blog_App/assets/146417248/6b130dcc-893d-4e9e-94bf-4519b7162c81)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![3](https://github.com/BilalSevinc16/Simple_Firebase_Blog_App/assets/146417248/c7355656-4ef2-4431-9634-ef54d54ad5fb)
